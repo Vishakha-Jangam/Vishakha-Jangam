@@ -12,3 +12,5 @@ A Java Backend developer
 
 📫 How to reach me.............. vishakhavjangam@gmail.com
 
+![Vishakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakha-Jangam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakha-Jangam&layout=compact)
