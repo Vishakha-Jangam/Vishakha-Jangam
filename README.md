@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://vishakha-jangam.netlify.app/](https://vishakha-jangam.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vishakha-jangam.netlify.app/](https://app.netlify.com/teams/vishakhavjangam/overview)
 
 - 📝 I regularly write articles on [https://medium.com/@vishakhavjangam](https://medium.com/@vishakhavjangam)
 
