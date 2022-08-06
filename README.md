@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vishakhavjangam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B-hEWq7d99S59Qj3W0X_gtdUpkqaXXtX/view?usp=sharing](https://drive.google.com/file/d/1B-hEWq7d99S59Qj3W0X_gtdUpkqaXXtX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B-hEWq7d99S59Qj3W0X_gtdUpkqaXXtX/view?usp=sharing](https://drive.google.com/drive/folders/1hlKTgM0t0Cpz8QyYKzT0m-Poatoh5MtG?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
