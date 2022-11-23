@@ -22,7 +22,7 @@ I am a Java backend Developer. Have a passion for technology and love to create 
 <p align="left">
 <a href="https://linkedin.com/in/vishakha-jangam-1700a9163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakha-jangam-1700a9163" height="30" width="40" /></a>
 <a href="https://medium.com/@vishakhavjangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishakhavjangam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vishakhajangam8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishakhajangam8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishakhajangam8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishakhajangam8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishakha-jangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishakha-jangam" height="30" width="40" /></a>
 </p>
 
