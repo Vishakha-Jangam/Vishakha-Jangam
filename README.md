@@ -8,7 +8,7 @@ I am a Java backend Developer. Have a passion for technology and love to create 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishakha-jangam" alt="vishakha-jangam" /></a> </p>
 
-- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
+- 🌱 I’m currently learning **Java,Spring,Spring Boot,Mysql,Hibernate**
 
 - 👨‍💻All of my projects are available at and even you can connect me from here also [https://vishakha-jangam.netlify.app/](https://vishakha-jangam.netlify.app/)
 
