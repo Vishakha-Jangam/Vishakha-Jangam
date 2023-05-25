@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishakha Jangam</h1>
 <h3>A passionate Java Backend developer from India</h3>
-I am a Java backend Developer. Have a passion for technology and love to create new things with the knowledge gained. I love to work on exciting projects that test what I've learned, whilst being exposed to the power and potential of the ever-evolving technologies around us. currently learning ServiceNow Technology.
+I am a Java backend Developer. Have a passion for technology and love to create new things with the knowledge gained. I love to work on exciting projects that test what I've learned, whilst being exposed to the power and potential of the ever-evolving technologies around us. Currently learning ServiceNow Technology.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakha-jangam&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha-jangam" /> </p>
 
